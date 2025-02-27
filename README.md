@@ -1,4 +1,4 @@
-# brkb_volatility_forecast
+# brkb_garch_volatility_forecast
 
 - This project forecasts the volatility of **$BRKB** (Berkshire Hathaway) stock returns using a GARCH(2,2) model from the ARCH library.
 - It includes data preprocessing, rolling volatility predictions, and a 7-day future forecast visualized with Plotly.
